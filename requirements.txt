@@ -1,0 +1,9 @@
+numpy
+opencv-python
+pyttsx3
+keras
+tensorflow
+mediapipe  # Assuming cvzone uses mediapipe internally for hand tracking
+Pillow
+scikit-learn # Sastrawi might have a dependency on scikit-learn for some functionalities, although not explicitly imported. It's safer to include.
+Sastrawi
